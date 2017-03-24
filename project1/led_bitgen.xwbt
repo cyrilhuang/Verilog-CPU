@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\lab1\led.ncd
+OUTFILE=D:\lab1\led.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\lab1
+LICENSE=WebPack
+USER_INFO=__0_0_0

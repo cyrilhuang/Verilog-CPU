@@ -1,0 +1,21 @@
+
+NET "clkOld" LOC = B8;
+
+NET "switch[0]" LOC = N3;
+NET "switch[1]" LOC = E2;
+NET "switch[2]" LOC = F3;
+NET "switch[3]" LOC = G3;
+
+NET "led[0]" LOC = G1;
+NET "led[1]" LOC = P4;
+NET "led[2]" LOC = N4;
+NET "led[3]" LOC = N5;
+NET "led[4]" LOC = P6;
+NET "led[5]" LOC = P7;
+NET "led[6]" LOC = M11;
+NET "led[7]" LOC = M5;
+
+# PlanAhead Generated physical constraints 
+
+NET "switch[4]" LOC = L3;
+NET "switch[5]" LOC = P11;

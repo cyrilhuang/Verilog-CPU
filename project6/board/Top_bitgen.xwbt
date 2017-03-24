@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\lab6board\Top.ncd
+OUTFILE=D:\lab6board\Top.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=D:\lab6board
+LICENSE=WebPack
+USER_INFO=__0_0_0

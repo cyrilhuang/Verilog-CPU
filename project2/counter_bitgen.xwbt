@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\lab2\counter.ncd
+OUTFILE=D:\lab2\counter.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\lab2
+LICENSE=WebPack
+USER_INFO=__0_0_0
